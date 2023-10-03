@@ -1,0 +1,76 @@
+html{ 
+    background-color: rgb(237, 231, 169);
+    color: rgb(55, 97, 113);
+    font-family: "tt-travels-next", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h1{
+    font-family: "tt-travels-next-outline", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    text-transform: uppercase;
+    color: rgb(113, 145, 158);
+}
+
+h2{font-family: "tt-travels-next", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(113, 145, 158);
+
+}
+
+
+h3{
+    font-family: "tt-travels-next", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: medium;
+    color: rgb(113, 145, 158);}
+
+h4{font-family: "tt-travels-next", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    color: rgb(51, 78, 89);
+
+}
+
+
+.description{font-family: "tt-travels-next", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    color: rgb(51, 78, 89);
+
+}
+
+sup{
+    font-size: small;
+    
+}
+
+button{font-family: "tt-travels-next", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: medium;
+    color: rgb(113, 145, 158);
+background-color: rgb(181, 181, 181);}
+
+
+.block{
+    margin-left: 40%;
+
+}
+
+.block1{
+    margin-left: 36%;
+}
+
+sub{font-size: small;
+    
+
+}
+
+footer{
+    font-size: small;
+}
