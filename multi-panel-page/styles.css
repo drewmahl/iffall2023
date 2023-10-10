@@ -1,0 +1,199 @@
+html{
+    font-family: 'Archivo Narrow', sans-serif;
+    }
+
+    header{
+        background-color: rgba(255, 0, 0,);
+        text-align: center;
+        background-image: url("img/nat.avif");
+        background-position: center;
+        background-size: cover;
+    }
+
+section{
+        background-color: rgb(104, 129, 184);
+    }
+
+    h1, h2, h3, p {
+        margin: 0;
+    }
+h1{
+    font-size: 80px;
+    color: rgb(255, 255, 255);
+      }
+    
+h2{
+        font-size: 30px;
+        margin-top: -3px;
+      }
+    
+
+  h3 {
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 33px;
+    color: rgb(0, 0, 0);
+  }
+
+.column_container{
+    width: 960px;
+    margin: auto;
+    background-color: rgba(0, 0, 0, .0);
+    padding-top: 55px;
+    padding-bottom: 20px;
+    }
+
+section .column_container{
+    padding-top: 40px;
+}
+
+section.content_grid{
+    background-color: rgba(255, 6, 247, 0.0);
+   
+  }
+
+  section.closing{
+    background-color: rgba(40, 17, 94, 0.0);
+  }
+
+section.intro_text{
+font-size: 18px;
+}
+
+  header .column_container{
+    padding-top: 152px;
+    padding-bottom: 183px;
+  }
+
+  h1{
+    font-size: 80px;
+    color: rgb(255, 255, 255);
+  }
+
+  h2{
+    font-size: 30px;
+    margin-top: -3px;
+  }
+
+  header h2{
+    color: rgb(255, 209, 198);
+  }
+
+p{
+  line-height: 25.2px;
+  padding-bottom: 16px;
+
+}
+
+.float_picture{
+    float: right;
+    width: 400px;
+    height: 300px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+
+.section2{
+  background-color: rgb(255, 174, 134);
+  color: rgb(104, 129, 184);
+}
+
+section{
+  margin: 0;
+  display: block;
+}
+
+.grid-base{
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: 40px;
+}
+
+.griddy {
+  margin-top: -6px;
+  width: 50%;
+  margin-bottom: 22px;}
+
+  .grimage {
+    height: 150px;
+    width: 200px;
+    object-fit: cover;
+    float: left;
+    margin-right: 12px;}
+
+    img {
+      overflow-clip-margin: content-box;
+      overflow: clip;
+    }
+    
+
+h4 {
+  margin: 6px;
+  margin-bottom: 8px;
+font-size: 20px;}
+
+  .imgtext {
+    width: 430px;
+    margin-left: 16px;
+    margin-top: 8px;
+    font-size: 18px;}
+    
+
+    .closing{
+      margin-top: -34px;
+      background-color: rgb(251, 255, 211)5, 170, 136;
+      
+
+    }
+
+    .lastp{
+      text-align: center;
+      font-size: 26px;
+      width: 703px;
+      margin: auto;
+      margin-top: 3px;
+      line-height: 36px;
+    }
+
+    .lines{
+      margin-top: -2px;
+    }
+
+    .sect{
+      margin-top: 10px;
+    }
+
+    .copy {
+      margin-top: -13px;
+      margin-left: 0px;
+      font-size: 18px;}
+
+      .lower{
+        padding-top: 20px;
+      }
+      .column_container2 {
+        width: 960px;
+        margin: auto;
+        background-color: rgba(0, 0, 0, .0);
+        padding-top: 40px;
+        padding-bottom: 19px;}
+
+
+        .white
+      {
+        color: white;
+      }
+
+
+      .blue{
+        color: rgb(104, 129, 184);
+      }
+   
+      section.closing{
+        background-color: rgb(124, 220, 255);
+      }
+
+      section .column_containerf{
+        padding-top: 40px;
+        padding-bottom: 108px;
+      }
