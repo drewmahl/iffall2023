@@ -1,0 +1,32 @@
+
+
+.ghostbusters {
+     text-align:center;
+     color:rgb(255, 0, 72); 
+     text-transform: uppercase;
+}
+
+
+
+
+
+    .gimage {
+        display:block
+
+    }
+
+
+    .script 
+    {color: white;
+     font-family: "prestige-elite-std", monospace;
+     font-weight: 400;
+     font-style: normal; }
+
+     .scene {
+          color: aquamarine;
+          font-family: "prestige-elite-std", monospace;
+          font-weight: 700;
+          font-style: italic;
+          background-color: rgb(79, 79, 79);
+          text-align: center;
+     }

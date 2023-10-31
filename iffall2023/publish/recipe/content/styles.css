@@ -1,0 +1,214 @@
+html{ 
+    background-color: rgb(242, 243, 174);
+    color: rgb(55, 97, 113);
+    font-family: "tt-travels-next", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+h1{
+    font-family: "tt-travels-next-outline", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    text-transform: uppercase;
+    color: rgb(113, 145, 158);
+    display: block;
+    width: 856px;
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 57px;
+    text-align: center;
+}
+
+
+@media (max-width: 390px){
+    h1{width: 856px;
+        max-width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+        font-size: 57px;} }
+
+@media (min-width: 350px) {
+    h1{ 
+        width: 400px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+
+h2{font-family: "tt-travels-next", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(113, 145, 158);
+    text-align: center;
+
+}
+
+
+h3{
+    font-family: "tt-travels-next", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: medium;
+    color: rgb(113, 145, 158);}
+
+h4{font-family: "tt-travels-next", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    color: rgb(51, 78, 89);
+
+}
+
+
+.description{font-family: "tt-travels-next", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    color: rgb(51, 78, 89);
+
+}
+
+@media (min-width: 390px){
+.description {
+    display: block;
+    max-width: 632px;
+    margin-left: 10%;
+    margin-right: auto;}
+}
+
+
+sup{
+    font-size: medium;
+    
+}
+
+button{font-family: "tt-travels-next", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: medium;
+    color: rgb(113, 145, 158);
+background-color: rgb(252, 158, 79);}
+
+
+.block{
+    display: block;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.block1{
+    display: block;
+    width: 436px;
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: medium;
+}
+
+sub{font-size: small;
+    
+
+}
+
+footer{
+    font-size: small;
+}
+
+li{
+    display: flex;
+    display: block;
+    max-width: 700px;
+    padding-left: 25px;
+}
+
+.bottom{
+    display: flex;
+    display: block;
+    max-width: 700px;
+}
+
+footer{
+    display: block;
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.descsect{
+    margin-left: -8px;
+    margin-right: -8px;
+    padding-left: 25px;
+}
+
+.secting{
+    background-color: rgb(255, 194, 144);
+    margin-left: -8px;
+    margin-right: -8px;
+    padding-left: 25px;
+    padding-bottom: 100px;
+}
+
+.last{
+    background-color: rgb(255, 255, 182);
+    
+    display: block;
+    max-width: 100%;
+    margin-left: -8px;
+    padding-left: 25px;
+    font-size: xx-small;
+    color: rgb(0, 0, 0);
+
+}
+
+.bottom{
+    display: block;
+    max-width: 100%;
+    padding-right: 25px;
+    
+}
+
+footer{
+    color: rgb(141, 141, 141);
+}
+
+.emboxed{
+    background-color: rgb(255, 194, 144);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: -7px;
+    margin-right: -8px;
+    text-align: center;}
+
+.vid{
+    display: block;
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.orange{
+    background-color: rgb(255, 194, 144);
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin: -8px;
+    margin-bottom: -13px;
+}
+
+.smalla{
+font-size: small;
+padding-top: 40px;
+}
+
+.center{
+    display: block;
+    
+}
+
+.sectnote{
+background-color: rgb(255, 194, 144);
+}

@@ -1,0 +1,68 @@
+.anyway {font-family: "carrotflower", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.lyrics
+{
+    font-family: "galahad-std", sans-serif;
+font-weight: 400;
+font-style: normal;
+color:rgb(0, 73, 88);
+background-color: rgba(240, 248, 255, 0.545);
+}
+
+
+.verse { font-family: "carrotflower", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: bisque;
+    font-size: xx-large;
+    text-indent: 25%;
+
+}
+
+.body1 { font-family: "carrotflower", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: bisque;
+    font-size: medium;
+   margin-left: 20%;
+
+}
+
+
+.footer { font-family: "carrotflower", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: bisque;
+    font-size: small;
+
+}
+
+
+.image{
+    display: block;
+    max-width: 10%;
+  
+}
+
+
+
+.iplay{
+
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left:25%;
+}
+
+
+.noah{
+    max-width: 15%;
+    max-height: 15%;
+    margin-top: 0%;
+    margin-bottom: 5%;
+    margin-left: 5%;
+
+
+}
