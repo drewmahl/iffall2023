@@ -1,0 +1,64 @@
+html{
+    font-family: "merel", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+    background-color: rgb(98, 175, 205);
+    text-align: center;
+}
+
+.portitem {
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 20px 20px 30px 20px;
+    margin: 0 10px;
+    width: calc(33% - 20px);
+    height: 440px;
+    transition: all .4s;
+    text-decoration: none;
+    color: #333;
+    -webkit-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.1);
+    -moz-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.1);
+    box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.1);
+    vertical-align: top;
+    background-color: rgb(255, 185, 72);
+    border-radius: 20px;
+}
+
+
+
+@media screen and (max-width: 1000px){
+    .portitem{
+        width: calc(50% - 20px);
+        height: 440px;
+        margin-bottom: 20px;
+    }  
+}
+
+.portimage {
+    width: 100%;
+    height: 300px;
+    background-color: #ccc;
+    margin-bottom: 15px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: none;
+    
+}
+
+
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    padding-top: 315px;
+    }
+
+    footer{
+        margin-top: 7%;
+
+    }
